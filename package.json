@@ -1,0 +1,23 @@
+{
+  "name": "starter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/navs0612/Guess_The_Number.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/navs0612/Guess_The_Number/issues"
+  },
+  "homepage": "https://github.com/navs0612/Guess_The_Number#readme",
+  "dependencies": {
+    "express.js": "^1.0.0"
+  }
+}
